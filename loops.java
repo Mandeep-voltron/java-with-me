@@ -16,10 +16,10 @@ a++;
 
 int z = 10;
 int y = 1;
-while{
+do{
 System.out.println(y);
 y++;
-}(y<=z)
+}while(y<=z);
 
 
 
